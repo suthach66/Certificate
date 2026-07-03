@@ -12,7 +12,7 @@
 * **สถาบัน:** สถาบันคุณวุฒิวิชาชีพ (องค์การมหาชน) - TPQI
 * **วันที่ได้รับ:** 3 กรกฎาคม 2569
 * **เลขที่ใบเซอร์:** TPQIM504100012569402699
-* **หลักฐานตัวเต็ม:** 📄 [ดาวน์โหลดไฟล์ PDF ตัวเต็มที่นี่](./excel-intermediate.pdf?raw=true)
+* **หลักฐานตัวเต็ม:** 📄 [ดาวน์โหลดไฟล์ PDF](excel-intermediate.pdf?raw=true)
 * **รูปภาพใบเซอร์:** 
   ![Microsoft Excel Intermediate](images/excel-intermediate.png)
 
