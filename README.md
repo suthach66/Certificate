@@ -13,7 +13,7 @@
 * **วันที่ได้รับ:** 3 กรกฎาคม 2569
 * **เลขที่ใบเซอร์:** TPQIM504100012569402699
 * **รูปภาพใบเซอร์:** 
-  ![Microsoft Excel Intermediate](images/excel-intermediate.png)
+  ![Microsoft Excel Intermediate](images/excel-intermediate.pdf)
 
 ---
 
@@ -22,7 +22,7 @@
 * **วันที่ได้รับ:** 3 กรกฎาคม 2569
 * **เลขที่ใบเซอร์:** TPQIMS01100012569402699
 * **รูปภาพใบเซอร์:** 
-  ![Microsoft Word Intermediate](images/word-intermediate.png)
+  ![Microsoft Word Intermediate](images/word-intermediate.pdf)
 
 ---
 
@@ -31,4 +31,4 @@
 * **วันที่ได้รับ:** 3 กรกฎาคม 2569
 * **เลขที่ใบเซอร์:** TPQIM50500012569402699
 * **รูปภาพใบเซอร์:** 
-  ![Digital Literacy](images/digital-literacy.png)
+  ![Digital Literacy](images/digital-literacy.pdf)
