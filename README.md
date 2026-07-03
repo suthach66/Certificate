@@ -12,8 +12,9 @@
 * **สถาบัน:** สถาบันคุณวุฒิวิชาชีพ (องค์การมหาชน) - TPQI
 * **วันที่ได้รับ:** 3 กรกฎาคม 2569
 * **เลขที่ใบเซอร์:** TPQIM504100012569402699
+* **หลักฐานตัวเต็ม:** 📄 [ดาวน์โหลดไฟล์ PDF](excel-intermediate.pdf)
 * **รูปภาพใบเซอร์:** 
-  ![Microsoft Excel Intermediate](images/excel-intermediate.pdf)
+  ![Microsoft Excel Intermediate](images/excel-intermediate.png)
 
 ---
 
@@ -21,8 +22,9 @@
 * **สถาบัน:** สถาบันคุณวุฒิวิชาชีพ (องค์การมหาชน) - TPQI
 * **วันที่ได้รับ:** 3 กรกฎาคม 2569
 * **เลขที่ใบเซอร์:** TPQIMS01100012569402699
+* **หลักฐานตัวเต็ม:** 📄 [ดาวน์โหลดไฟล์ PDF](word-intermediate.pdf)
 * **รูปภาพใบเซอร์:** 
-  ![Microsoft Word Intermediate](images/word-intermediate.pdf)
+  ![Microsoft Word Intermediate](images/word-intermediate.png)
 
 ---
 
@@ -30,5 +32,6 @@
 * **สถาบัน:** สถาบันคุณวุฒิวิชาชีพ (องค์การมหาชน) - TPQI
 * **วันที่ได้รับ:** 3 กรกฎาคม 2569
 * **เลขที่ใบเซอร์:** TPQIM50500012569402699
+* **หลักฐานตัวเต็ม:** 📄 [ดาวน์โหลดไฟล์ PDF](digital-literacy.pdf)
 * **รูปภาพใบเซอร์:** 
-  ![Digital Literacy](images/digital-literacy.pdf)
+  ![Digital Literacy](images/digital-literacy.png)
